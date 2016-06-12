@@ -1,3 +1,1 @@
-B
-C
-Hola esto el archivo
+Hola este es el archivo 2
