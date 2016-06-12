@@ -1,7 +1,3 @@
 <?php
-B
-B
-D
-D
-$var=""
+$var="correr";
 ?>
